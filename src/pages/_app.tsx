@@ -1,6 +1,7 @@
 import '../styles/globals.css';
 
 import axios from 'axios';
+import localtunnel from 'localtunnel';
 import type { AppProps } from 'next/app';
 import { useEffect, useState } from 'react';
 
